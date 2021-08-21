@@ -1,0 +1,36 @@
+/* General */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family:  'Poppins', Helvetica, sans-serif;
+    color: #fff;
+    background: #163840;
+    background: -webkit-linear-gradient(to top, hsl(117,19%,27%) 50%,  hsl(176,32%,18%) 75%, hsl(192,50%,17%) 100%);
+    background: -moz-linear-gradient(to top, hsl(117,19%,27%) 50%,  hsl(176,32%,18%) 75%, hsl(192,50%,17%) 100%);
+    background: -o-linear-gradient(to top, hsl(117,19%,27%) 50%,  hsl(176,32%,18%) 75%, hsl(192,50%,17%) 100%);
+    background: linear-gradient(to top, hsl(117,19%,27%) 50%,  hsl(176,32%,18%) 75%, hsl(192,50%,17%) 100%);
+    margin: 0;
+    height: auto;
+}
+
+a, a:hover, a:focus {
+    text-decoration: none;
+    color: #fff;
+}
+
+/* Header */
+header {
+    border: 1px solid black;
+    line-height: 50px;
+    text-align: center;
+    font-weight: 300;
+}
+
+header nav {
+    font-size: .9em;
+}
