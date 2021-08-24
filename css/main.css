@@ -49,6 +49,7 @@ header {
     text-align: center;
     font-weight: 300;
     margin-bottom: 40px;
+    margin-top: 20px;
     height: 150px;
 }
 header nav {
@@ -63,6 +64,7 @@ header nav {
 .header li a {
     display: block;
     text-decoration: none;
+    transition: all .2s linear;
 }
 
 .header li a select {
