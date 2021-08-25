@@ -307,9 +307,9 @@ header nav {
 .section3 .col-1, .section3 .col-3 {
     transition: all .3s linear;
 }
-.section3 .col-1:hover, .section3 .col-3:hover {
+/* .section3 .col-1:hover, .section3 .col-3:hover {
     margin-top: 10px;
-}
+} */
 .section3 .col-1, .section3 .col-3 {
     height: 200px;
     margin-top: 80px;
